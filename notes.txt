@@ -1,0 +1,9 @@
+tasks => storage(local storage) first load => no data yet +button add new
+table => task id, title, actions (show, edit, delete)
+
+
+task => 
+    id => unique,  auto generate
+    title => string Required,
+    content => string
+    status=> boolean (true, false) default=>false
